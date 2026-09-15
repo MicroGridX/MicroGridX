@@ -24,15 +24,9 @@ I am an **ECE undergraduate** at **IIIT Una** with strong interest in:
 
 Currently focused on building a strong foundation in:
 
-```text
-RTL to GDS Flow
-```
 
-I also enjoy:
-- 📷 Photography
-- 🎬 Video Editing
-- 🎵 Music
-- ✈️ Traveling
+RTL to GDS Flow
+
 
 ---
 
