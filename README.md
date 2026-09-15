@@ -54,13 +54,15 @@ I also enjoy:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicroGridX&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroGridX&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicroGridX" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MicroGridX&hide_border=true" />
+</p>
 # ⚙️ Tech Stack
 
 ## Hardware / VLSI
