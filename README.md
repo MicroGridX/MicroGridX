@@ -54,8 +54,11 @@ RTL to GDS Flow
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicroGridX" />
 </p>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MicroGridX&hide_border=true" />
+  <img src="./profile/stats.svg" height="170">
+  <img src="./profile/top-langs.svg" height="170">
 </p>
 # ⚙️ Tech Stack
 
